@@ -12,6 +12,10 @@
     transform: translate(-50%,-50%);
 }
 
+#obstacles{
+    display: none;
+}
+
 #overlay{
     position: absolute;
     background-image: './backgroung.png';
